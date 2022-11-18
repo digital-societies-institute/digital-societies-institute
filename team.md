@@ -1,6 +1,6 @@
 ---
 title: Team
-layout: teams
+layout: boards
 description: Team
 permalink: "/team/"
 intro_image_absolute: true
