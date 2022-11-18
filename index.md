@@ -10,4 +10,4 @@ show_call_box: true
 
 # Digital City Institute
 
-is a **think tank** exploring the **'Digital City'** concept as the foundation for social interaction technologies within modern communities and how they will be implemented.
+a **think tank** exploring the **'Digital City'** concept as the foundation for social interaction technologies within modern communities and researching how they will be implemented.
