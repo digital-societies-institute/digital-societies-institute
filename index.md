@@ -5,9 +5,9 @@ description: Digital City Institute.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
 # Digital City Institute
 
-is a **think tank** for discussing and drawing the **Digital City** concept and the future technology for our social interactions in modern communities.
+is a **think tank** exploring the concept of **'Digital Cities'** as the foundation for social interaction technologies within modern communities.
