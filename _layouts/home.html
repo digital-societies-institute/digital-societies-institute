@@ -27,13 +27,13 @@ bodyClass: "page-home"
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_departments | default: 6 %}
       {% for service in site.departments limit: limit %}
-      <div class="col-12 col-md-4 mb-1">
+      <div class="col-12 col-md-6 mb-1">
         <div class="service service-summary">
           <div class="service-content">
             <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+              <a href="{{ department.url | relative_url }}">{{ department.title }}</a>
             </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+            <p>{{ department.content | markdownify | strip_html | truncate: 100 }}</p>
           </div>
         </div>
       </div>
