@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Digital City Institute
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Digital City Institute.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Digital City Institute
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+The `Digital City Institute` is a **think tank** for the **Digital City** concept drawing the future of our social interactions in modern communities.
