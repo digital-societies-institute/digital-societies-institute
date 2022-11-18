@@ -2,7 +2,7 @@
 title: Digital City Institute
 layout: home
 description: Digital City Institute.
-intro_image: "images/illustrations/city_draw3.jpg"
+intro_image: "images/illustrations/city_draw4.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
