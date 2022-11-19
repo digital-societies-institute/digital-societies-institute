@@ -1,9 +1,9 @@
 ---
-title: Academic Supervisory Board
-layout: academic-supervisors
-description: Academic Supervisory Board
-permalink: "/academic-supervisory-board/"
-intro_image: "images/illustrations/academic_draw5.jpg"
+title: Professional Supervisory Board
+layout: professional-supervisors
+description: Professional Supervisory Board
+permalink: "/professional-supervisory-board/"
+intro_image: "images/illustrations/professional_draw1.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
