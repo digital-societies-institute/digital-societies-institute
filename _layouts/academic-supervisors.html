@@ -44,7 +44,7 @@ bodyClass: "page-teams"
           </p>
           {% endif %}
         </div>
-        <div class="team-content">{{ supervisor.content | truncate: 360 }} <a class="team-social-url" href="{{ supervisor.url | relative_url }}">[...]</a></div>
+        <div class="team-content">{{ supervisor.content | truncate: 360 }} <a href="{{ supervisor.url | relative_url }}">[...]</a></div>
       </div>
     </div>
     {% endfor %}
@@ -56,7 +56,9 @@ bodyClass: "page-teams"
       <div class="team team-summary">
         {% if supervisor.image %}
         <div class="team-image">
-          <img width="90" height="90" alt="{{ supervisor.title }}" class="img-fluid mb-2" src="{{ supervisor.image | relative_url }}" />
+          <a href="{{ supervisor.url | relative_url }}">
+            <img width="90" height="90" alt="{{ supervisor.title }}" class="img-fluid mb-2" src="{{ supervisor.image | relative_url }}" />
+          </a>
         </div>
         {% endif %}
         <div class="team-meta">
