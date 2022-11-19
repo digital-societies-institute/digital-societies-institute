@@ -22,10 +22,12 @@
       }
       p {
         color: $black;
-        text-transform: uppercase;
         margin: 0;
         font-size: 12px;
         font-weight: 500;
+        .team-main-position {
+          text-transform: uppercase;
+        }
       }
     }
     .team-content {

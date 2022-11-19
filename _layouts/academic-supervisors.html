@@ -32,7 +32,9 @@ bodyClass: "page-teams"
         <div class="team-meta">
           <h2 class="team-name"><a href="{{ supervisor.url | relative_url }}">{{ supervisor.title }}</a></h2>
           <p class="team-main-position">{{ supervisor.main_position }}</p>
+          {% if supervisor.main_domain %}
           <p class="team-main-domain">{{ supervisor.main_domain }}</p>
+          {% endif %}
           {% if supervisor.linkedinurl %}
           <a target="_blank" href="{{ supervisor.linkedinurl }}" rel="noreferrer">LinkedIn</a>
           {% endif %}
@@ -54,7 +56,7 @@ bodyClass: "page-teams"
         {% endif %}
         <div class="team-meta">
           <h2 class="team-name"><a href="{{ supervisor.url | relative_url }}">{{ supervisor.title }}</a></h2>
-          <p class="team-main-position">{{ supervisor.main_position }} / {{ supervisor.main_domain }}</p>
+          <p class="team-main-position">{{ supervisor.main_position }} {% if supervisor.main_domain %}/ {{ supervisor.main_domain }}{% endif %}</p>
         </div>
       </div>
     </div>
