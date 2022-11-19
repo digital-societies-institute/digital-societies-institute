@@ -1,6 +1,6 @@
 ---
 title: Academic Supervisory Board
-layout: supervisors
+layout: academic-supervisors
 description: Academic Supervisory Board
 permalink: "/academic-supervisory-board/"
 intro_image: "images/illustrations/reading.svg"

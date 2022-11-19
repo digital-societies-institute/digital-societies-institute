@@ -1,10 +1,10 @@
 ---
-layout: page
-list_order: 2000
-full_name: Florin Anghel, PhD
+layout: supervisor
+order: 2000
+title: Florin Anghel, PhD
 positions: Professor / Consultant
 organizations: University of Economic Studies
-linkedin: https://www.linkedin.com/in/anghelflorin/
+linkedinurl: https://www.linkedin.com/in/anghelflorin/
 domain: economics
 ---
 
