@@ -1,6 +1,7 @@
 ---
 layout: supervisor
 order: 1000
+promoted: true
 title: Raul-Felix Hodos, PhD
 positions: Professor / Attorney / Managing Partner
 organizations: Hodos Deac & Associates
