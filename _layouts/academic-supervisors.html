@@ -26,11 +26,12 @@ bodyClass: "page-teams"
       <div class="team team-summary team-summary-large">
         {% if supervisor.image %}
         <div class="team-image">
-          <img width="90" height="90" alt="{{ supervisor.title }}" class="img-fluid mb-2" src="{{ supervisor.image | relative_url }}" />
+          <img width="110" height="110" alt="{{ supervisor.title }}" class="img-fluid mb-2" src="{{ supervisor.image | relative_url }}" />
         </div>
         {% endif %}
         <div class="team-meta">
           <h2 class="team-name"><a href="{{ supervisor.url | relative_url }}">{{ supervisor.title }}</a></h2>
+          <p class="team-description">{{ supervisor.positions }}</p>
           <p class="team-description">{{ supervisor.organizations }}</p>
           {% if supervisor.linkedinurl %}
           <a target="_blank" href="{{ supervisor.linkedinurl }}" rel="noreferrer">LinkedIn</a>
@@ -48,7 +49,7 @@ bodyClass: "page-teams"
       <div class="team team-summary">
         {% if supervisor.image %}
         <div class="team-image">
-          <img width="60" height="60" alt="{{ supervisor.title }}" class="img-fluid mb-2" src="{{ supervisor.image | relative_url }}" />
+          <img width="90" height="90" alt="{{ supervisor.title }}" class="img-fluid mb-2" src="{{ supervisor.image | relative_url }}" />
         </div>
         {% endif %}
         <div class="team-meta">
