@@ -1,6 +1,7 @@
 ---
 layout: supervisor
 order: 5000
+promoted: true
 title: Cosmina Andreea Manea
 image: https://cdn.im.city/ui/contributors/urbanism/cosmina_manea.jpg
 main_position: PhD Researcher 

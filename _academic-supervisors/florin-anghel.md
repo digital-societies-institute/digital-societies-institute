@@ -1,6 +1,7 @@
 ---
 layout: supervisor
 order: 2000
+promoted: true
 title: Florin Anghel, PhD
 image: https://cdn.im.city/ui/academic_supervisory_board/florin_anghel.jpg
 main_position: Professor
