@@ -3,6 +3,7 @@ layout: supervisor
 order: 1000
 promoted: true
 title: Raul-Felix Hodos, PhD
+https://cdn.im.city/ui/contributors/legal/raul_felix_hodos.jpg
 positions: Professor / Attorney / Managing Partner
 organizations: Hodos Deac & Associates
 linkedinurl: https://www.linkedin.com/in/raul-hodos-3a9a6938/

@@ -3,6 +3,7 @@ layout: supervisor
 order: 100
 promoted: true
 title: Daniel Mihail Sandru, PhD
+image: https://cdn.im.city/ui/contributors/legal/daniel_mihail_sandru.jpg
 positions: Professor / Coordinator
 organizations: Center for European Legal Studies
 linkedinurl: https://www.linkedin.com/in/daniel-mihail-sandru/

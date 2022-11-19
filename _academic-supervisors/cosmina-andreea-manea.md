@@ -2,6 +2,7 @@
 layout: supervisor
 order: 5000
 title: Cosmina Andreea Manea
+https://cdn.im.city/ui/contributors/urbanism/cosmina_manea.jpg
 positions: PhD Researcher / Geography Teacher / Urbanist&Economist
 organizations: Urbring Project
 linkedinurl: https://www.linkedin.com/in/cosmina-andreea-manea-614700133/
