@@ -3,7 +3,7 @@ layout: supervisor
 order: 110
 promoted: true
 title: Andrei Savescu, PhD
-https://cdn.im.city/ui/contributors/legal/andrei_savescu.jpg
+image: https://cdn.im.city/ui/contributors/legal/andrei_savescu.jpg
 positions: Professor / Attorney / Managing Partner
 organizations: Savescu & Associates
 linkedinurl: https://www.linkedin.com/in/andrei-savescu-80366418/
