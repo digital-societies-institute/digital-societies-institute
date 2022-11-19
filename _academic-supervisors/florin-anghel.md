@@ -3,8 +3,12 @@ layout: supervisor
 order: 2000
 title: Florin Anghel, PhD
 image: https://cdn.im.city/ui/academic_supervisory_board/florin_anghel.jpg
-positions: Professor / Consultant
-organizations: University of Economic Studies
+main_position: Professor
+other_positions: Consultant
+main_domain:
+other_domains:
+main_organization:
+other_organizations: University of Economic Studies
 linkedinurl: https://www.linkedin.com/in/anghelflorin/
 domain: economics
 ---
