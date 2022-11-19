@@ -22,7 +22,7 @@ bodyClass: "page-teams"
   <div class="row">
     {% assign promoted_supervisors = site.academic-supervisors | where: "promoted", true | sort: "order" %}
     {% for supervisor in promoted_supervisors %}
-    <div class="col-12 col-md-6 mb-2">
+    <div class="col-12 col-md-12 mb-2">
       <div class="team team-summary team-summary-large">
         {% if supervisor.image %}
         <div class="team-image">
