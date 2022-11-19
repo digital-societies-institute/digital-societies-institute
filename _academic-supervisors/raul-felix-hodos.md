@@ -6,7 +6,7 @@ title: Raul-Felix Hodos, PhD
 image: https://cdn.im.city/ui/contributors/legal/raul_felix_hodos.jpg
 main_position: Professor
 other_positions: Attorney / Managing Partner
-main_domain:
+main_domain: Commercial Law
 other_domains:
 main_organization:
 other_organizations: Hodos Deac & Associates

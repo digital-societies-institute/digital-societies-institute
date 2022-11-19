@@ -6,7 +6,7 @@ title: Andrei Savescu, PhD
 image: https://cdn.im.city/ui/contributors/legal/andrei_savescu.jpg
 main_position: Professor
 other_positions: Attorney / Managing Partner
-main_domain: 
+main_domain: Cyber-law
 other_domains:
 main_organization: 
 other_organizations: Savescu & Associates

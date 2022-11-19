@@ -5,7 +5,7 @@ title: Florin Anghel, PhD
 image: https://cdn.im.city/ui/academic_supervisory_board/florin_anghel.jpg
 main_position: Professor
 other_positions: Consultant
-main_domain:
+main_domain: Entrepreneurship
 other_domains:
 main_organization:
 other_organizations: University of Economic Studies
