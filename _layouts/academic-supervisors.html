@@ -26,7 +26,9 @@ bodyClass: "page-teams"
       <div class="team team-summary team-summary-large">
         {% if supervisor.image %}
         <div class="team-image">
-          <img width="160" height="160" alt="{{ supervisor.title }}" class="img-fluid mb-2" src="{{ supervisor.image | relative_url }}" />
+          <a href="{{ supervisor.url | relative_url }}">
+            <img width="160" height="160" alt="{{ supervisor.title }}" class="img-fluid mb-2" src="{{ supervisor.image | relative_url }}" />
+          </a>
         </div>
         {% endif %}
         <div class="team-meta">
@@ -39,7 +41,7 @@ bodyClass: "page-teams"
           <a class="team-social-url" target="_blank" href="{{ supervisor.linkedinurl }}" rel="noreferrer">LinkedIn</a>
           {% endif %}
         </div>
-        <div class="team-content">{{ supervisor.content | truncate: 360 }}</div>
+        <div class="team-content">{{ supervisor.content | truncate: 360 }} <a href="{{ supervisor.url | relative_url }}">Read more</a></div>
       </div>
     </div>
     {% endfor %}
