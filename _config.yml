@@ -17,6 +17,12 @@ collections:
   projects:
     output: true
     sort_by: weight
+  academic-supervisors:
+    output: true
+    sort_by: order
+  professional-supervisors:
+    output: true
+    sort_by: order
   team:
     output: true
 
@@ -26,6 +32,16 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: ""
+      type: "academic-supervisors"
+    values:
+      layout: "supervisor"
+  - scope:
+      path: ""
+      type: "professional-supervisors"
+    values:
+      layout: "supervisor"
   - scope:
       path: ""
       type: "team"
