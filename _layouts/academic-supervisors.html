@@ -23,13 +23,13 @@ bodyClass: "page-teams"
     {% assign promoted_supervisors = site.academic-supervisors | where: "promoted", true | sort: "order" %}
     {% for supervisor in promoted_supervisors %}
     <div class="col-12 col-md-6 mb-2">
-      <div class="team team-summary team-summary-large">
+      <div class="row team team-summary team-summary-large">
         {% if supervisor.image %}
-        <div class="team-image">
-          <img width="110" height="110" alt="{{ supervisor.title }}" class="img-fluid mb-2" src="{{ supervisor.image | relative_url }}" />
+        <div class="col-12 team-image">
+          <img alt="{{ supervisor.title }}" class="img-fluid mb-2" src="{{ supervisor.image | relative_url }}" />
         </div>
         {% endif %}
-        <div class="team-meta">
+        <div class="col-12 team-meta">
           <h2 class="team-name"><a href="{{ supervisor.url | relative_url }}">{{ supervisor.title }}</a></h2>
           <p class="team-description">{{ supervisor.positions }}</p>
           <p class="team-description">{{ supervisor.organizations }}</p>
@@ -37,7 +37,7 @@ bodyClass: "page-teams"
           <a target="_blank" href="{{ supervisor.linkedinurl }}" rel="noreferrer">LinkedIn</a>
           {% endif %}
         </div>
-        <div class="team-content">{{ supervisor.content | truncate: 120 }}</div>
+        <div class="col-12 team-content">{{ supervisor.content | truncate: 120 }}</div>
       </div>
     </div>
     {% endfor %}
