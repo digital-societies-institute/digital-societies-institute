@@ -20,7 +20,7 @@ bodyClass: "page-teams"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% assign promoted_supervisors = site.academic-supervisors | where: "promoted", true | sort: "order" %}
+    {% assign promoted_supervisors = site.academic-supervisors | where: "promotedd", true | sort: "order" %}
     {% for supervisor in promoted_supervisors %}
     <div class="col-12 col-md-12 mb-2">
       <div class="team team-summary team-summary-large">
