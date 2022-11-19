@@ -38,7 +38,12 @@ bodyClass: "page-teams"
           <p class="team-main-domain">{{ supervisor.main_domain }}</p>
           {% endif %}
           {% if supervisor.linkedinurl %}
-          <a class="team-social-url" target="_blank" href="{{ supervisor.linkedinurl }}" rel="noreferrer">LinkedIn</a>
+          <p>
+            <a href="{{ supervisor.linkedinurl }}" target="_blank"><i class="fab fa-linkedin"></i></a>
+          </p>
+          <p>
+            <a class="team-social-url" target="_blank" href="{{ supervisor.linkedinurl }}" rel="noreferrer">LinkedIn</a>
+          </p>
           {% endif %}
           <a class="team-social-url" href="{{ supervisor.url | relative_url }}">Read more</a>
         </div>
