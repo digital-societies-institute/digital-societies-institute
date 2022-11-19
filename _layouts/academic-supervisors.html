@@ -41,7 +41,8 @@ bodyClass: "page-teams"
           <a class="team-social-url" target="_blank" href="{{ supervisor.linkedinurl }}" rel="noreferrer">LinkedIn</a>
           {% endif %}
         </div>
-        <div class="team-content">{{ supervisor.content | truncate: 360 }} <a href="{{ supervisor.url | relative_url }}">Read more</a></div>
+        <div class="team-content">{{ supervisor.content | truncate: 360 }}</div>
+        <a style="float: right;" href="{{ supervisor.url | relative_url }}">Read more</a>
       </div>
     </div>
     {% endfor %}
