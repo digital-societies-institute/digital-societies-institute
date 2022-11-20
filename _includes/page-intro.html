@@ -20,7 +20,7 @@
 {% if page.intro_subtext %}
 <div class="container pt-6 pb-6">
   <div class="row text-justify">
-      {{ page.intro_subtext }}
+      {{ page.intro_subtext | markdownify }}
   </div>
 </div>
 {% endif %}
