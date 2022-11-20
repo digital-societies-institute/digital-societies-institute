@@ -1,13 +1,10 @@
 main:
-  - name: "Projects"
-    url: "/projects/"
+  - name: "Academic"
+    url: "/academic-supervisory-board/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Professional"
+    url: "/professional-supervisory-board/"
     weight: 3
-  - name: "About"
-    url: "/about/"
-    weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5
