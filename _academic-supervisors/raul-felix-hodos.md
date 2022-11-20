@@ -2,15 +2,13 @@
 layout: supervisor
 order: 1000
 promoted: true
-title: Raul-Felix Hodos, PhD
+full_name: Raul-Felix Hodos, PhD
 image: /images/boards/academic/raul_felix_hodos_sq.jpg
-main_position: Professor
-other_positions: Attorney / Managing Partner
-main_domain: Commercial Law
-other_domains:
-main_organization:
-other_organizations: Hodos Deac & Associates
-linkedinurl: https://www.linkedin.com/in/raul-hodos-3a9a6938/
+title: Professor
+subtitle: Commercial Law
+positions: Professor / Attorney / Managing Partner
+organizations: Hodos Deac & Associates
+linkedin_url: https://www.linkedin.com/in/raul-hodos-3a9a6938/
 domain: legal
 ---
 

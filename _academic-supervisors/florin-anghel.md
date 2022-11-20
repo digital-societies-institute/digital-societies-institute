@@ -2,15 +2,13 @@
 layout: supervisor
 order: 2000
 promoted: true
-title: Florin Anghel, PhD
+full_name: Florin Anghel, PhD
 image: /images/boards/academic/florin_anghel_sq.jpg
-main_position: Professor
-other_positions: Consultant
-main_domain: Entrepreneurship
-other_domains:
-main_organization:
-other_organizations: University of Economic Studies
-linkedinurl: https://www.linkedin.com/in/anghelflorin/
+title: Professor
+subtitle: Entrepreneurship
+positions: Professor / Consultant
+organizations: University of Economic Studies
+linkedin_url: https://www.linkedin.com/in/anghelflorin/
 domain: economics
 ---
 

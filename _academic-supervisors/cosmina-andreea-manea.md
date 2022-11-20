@@ -2,15 +2,13 @@
 layout: supervisor
 order: 5000
 promoted: true
-title: Cosmina Andreea Manea
+full_name: Cosmina Andreea Manea
 image: /images/boards/academic/cosmina_andreea_manea_sq.jpg
-main_position: PhD Researcher 
-other_positions: Geography Teacher / Urbanist&Economist
-main_domain:
-other_domains:
-main_organization:
-other_organizations: Urbring Project
-linkedinurl: https://www.linkedin.com/in/cosmina-andreea-manea-614700133/
+title: PhD Researcher 
+subtitle: 
+positions: PhD Researcher / Geography Teacher / Urbanist&Economist
+organizations: Urbring Project
+linkedin_url: https://www.linkedin.com/in/cosmina-andreea-manea-614700133/
 category: urbanism
 ---
 As a researcher of urban environments and a geography teacher, Cosmina has direct fieldwork experience in European urbanism and architecture. She has a double degree in both Geography and Economy, with a master degree in Intelligent Territorial Development.

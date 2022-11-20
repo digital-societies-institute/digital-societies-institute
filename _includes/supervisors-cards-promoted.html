@@ -9,15 +9,15 @@
         </div>
         {% endif %}
         <div class="team-meta">
-            <h2 class="team-name"><a href="{{ supervisor.url | relative_url }}">{{ supervisor.title }}</a></h2>
-            <p class="team-main-position">{{ supervisor.main_position }}</p>
-            {% if supervisor.main_domain %}
-            <p class="team-main-domain">{{ supervisor.main_domain }}</p>
+            <h2 class="team-name"><a href="{{ supervisor.url | relative_url }}">{{ supervisor.full_name }}</a></h2>
+            <p class="team-title">{{ supervisor.title }}</p>
+            {% if supervisor.subtitle %}
+            <p class="team-subtitle">{{ supervisor.subtitle }}</p>
             {% endif %}
-            {% if supervisor.linkedinurl %}
+            {% if supervisor.linkedin_url %}
             <p style="margin: 0;">
-                <a href="{{ supervisor.linkedinurl }}" target="_blank"><i class="fab fa-linkedin"></i></a>
-                <a class="team-social-url" target="_blank" href="{{ supervisor.linkedinurl }}" rel="noreferrer">LinkedIn</a>
+                <a href="{{ supervisor.linkedin_url }}" target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a class="team-social-url" target="_blank" href="{{ supervisor.linkedin_url }}" rel="noreferrer">LinkedIn</a>
             </p>
             {% endif %}
         </div>

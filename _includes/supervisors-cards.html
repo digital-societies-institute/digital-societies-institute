@@ -9,10 +9,10 @@
         </div>
         {% endif %}
         <div class="team-meta">
-            <h2 class="team-name"><a href="{{ supervisor.url | relative_url }}">{{ supervisor.title }}</a></h2>
-            <p class="team-main-position">{{ supervisor.main_position }}</p>
-            {% if supervisor.main_domain %}
-            <p class="team-main-domain">{{ supervisor.main_domain }}</p>
+            <h2 class="team-name"><a href="{{ supervisor.url | relative_url }}">{{ supervisor.full_name }}</a></h2>
+            <p class="team-title">{{ supervisor.title }}</p>
+            {% if supervisor.subtitle %}
+            <p class="team-subtitle">{{ supervisor.subtitle }}</p>
             {% endif %}
         </div>
     </div>
