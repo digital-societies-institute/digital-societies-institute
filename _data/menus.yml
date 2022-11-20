@@ -1,4 +1,7 @@
 main:
+  - name: "Home"
+    url: "/"
+    weight: 1
   - name: "Academic"
     url: "/academic-supervisory-board/"
     weight: 2
