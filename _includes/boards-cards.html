@@ -1,0 +1,24 @@
+{% if site.data.boards %}
+<div class="strip strip-grey">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
+
+      {% for board in site.data.boards %}
+      <div class="col-12 col-md-6 col-lg-6 mb-2">
+        <div class="feature">
+          {% if board.image %}
+          <div class="feature-image"><img alt="{{ board.title }} logo" src="{{ board.image.url | relative_url }}" width="{{ board.image.width }}" height="{{ board.image.height }}" /></div>
+          {% endif %}
+          <h2 class="feature-title">{{ board.title }}</h2>
+          <div class="feature-content">{{ board.description }}</div>
+          <p class="mt-4">
+            <a class="feature-link" href="{{ board.url | relative_url }}">View all board members</a>
+          </p>
+        </div>
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
+{% endif %}
