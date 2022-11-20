@@ -3,7 +3,7 @@ layout: supervisor
 order: 110
 promoted: true
 title: Andrei Savescu, PhD
-image: https://cdn.im.city/ui/contributors/legal/andrei_savescu.jpg
+image: /images/boards/academic/andrei_savescu_sq.jpg
 main_position: Professor
 other_positions: Attorney / Managing Partner
 main_domain: Cyber-law
