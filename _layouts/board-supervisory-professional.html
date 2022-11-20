@@ -1,0 +1,19 @@
+---
+layout: default
+bodyClass: "page-teams"
+---
+
+{% include page-intro.html %}
+
+<div class="container pt-6 pb-6">
+  <div class="row">
+    {% assign promoted_supervisors = site.professional-supervisors | where: "promoted", true | sort: "order" %}
+    {% include supervisors-cards-promoted.html %}
+  </div>
+  <div class="row pt-6 pb-6">
+    {% assign academic_supervisors = site.professional-supervisors | where: "promoted", empty | sort: "order" %}
+    {% include supervisors-cards.html %}
+  </div>
+</div>
+
+{% include boards-cards.html %}

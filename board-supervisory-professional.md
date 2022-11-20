@@ -1,6 +1,6 @@
 ---
 title: Professional Supervisory Board
-layout: professional-supervisors
+layout: board-supervisory-professional
 description: Professional Supervisory Board
 permalink: "/professional-supervisory-board/"
 intro_image: "images/illustrations/professional_draw4.jpg"
