@@ -14,12 +14,14 @@
       </div>
       {% endif %}
     </div>
-    {% if page.intro_subtext %}
+  </div>
+  {% if page.intro_subtext %}
+  <div class="container">
     <div class="row">
       <div class="col-12">
         {{ page.intro_subtext | markdownify }}
       </div>
     </div>
-    {% endif %}
   </div>
+  {% endif %}
 </div>
