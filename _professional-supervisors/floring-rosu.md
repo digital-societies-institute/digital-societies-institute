@@ -3,7 +3,7 @@ layout: supervisor
 order: 11111
 promoted: true
 full_name: Florin Rosu
-image: /images/boards/professional/laurentiu_petre_sq.jpg
+image: /images/boards/professional/florin_rosu_sq.jpg
 title: Attorney
 subtitle: QLawyers
 
