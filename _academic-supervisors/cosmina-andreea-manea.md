@@ -3,7 +3,7 @@ layout: supervisor
 order: 5000
 promoted: true
 title: Cosmina Andreea Manea
-image: https://cdn.im.city/ui/contributors/urbanism/cosmina_manea.jpg
+image: /images/boards/academic/cosmina_andreea_manea_sq.jpg
 main_position: PhD Researcher 
 other_positions: Geography Teacher / Urbanist&Economist
 main_domain:

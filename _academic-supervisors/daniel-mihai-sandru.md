@@ -3,7 +3,7 @@ layout: supervisor
 order: 100
 promoted: true
 title: Daniel Mihail Sandru, PhD
-image: https://cdn.im.city/ui/contributors/legal/daniel_mihail_sandru.jpg
+image: /images/boards/academic/daniel_mihail_sandru_sq.jpg
 main_position: Professor 
 other_positions: Coordinator
 main_domain: European Union Law

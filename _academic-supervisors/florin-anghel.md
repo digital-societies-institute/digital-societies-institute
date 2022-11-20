@@ -3,7 +3,7 @@ layout: supervisor
 order: 2000
 promoted: true
 title: Florin Anghel, PhD
-image: https://cdn.im.city/ui/academic_supervisory_board/florin_anghel.jpg
+image: /images/boards/academic/florin_anghel_sq.jpg
 main_position: Professor
 other_positions: Consultant
 main_domain: Entrepreneurship

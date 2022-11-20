@@ -3,7 +3,7 @@ layout: supervisor
 order: 1000
 promoted: true
 title: Raul-Felix Hodos, PhD
-image: https://cdn.im.city/ui/contributors/legal/raul_felix_hodos.jpg
+image: /images/boards/academic/raul_felix_hodos_sq.jpg
 main_position: Professor
 other_positions: Attorney / Managing Partner
 main_domain: Commercial Law
