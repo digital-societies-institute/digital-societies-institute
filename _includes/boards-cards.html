@@ -4,8 +4,8 @@
     <div class="row justify-content-center">
 
       {% for board in site.data.boards %}
+      <a class="feature-link" href="{{ board.url | relative_url }}">
       <div class="col-12 col-md-6 col-lg-6 mb-2">
-        <a class="feature-link" href="{{ board.url | relative_url }}">
         <div class="feature">
           {% if board.image %}
           <div class="feature-image"><img alt="{{ board.title }} logo" src="{{ board.image.url | relative_url }}" width="{{ board.image.width }}" height="{{ board.image.height }}" /></div>
@@ -16,8 +16,8 @@
             <a class="feature-link" href="{{ board.url | relative_url }}">View all board members</a>
           </p>
         </div>
-        </a>
       </div>
+      </a>
       {% endfor %}
 
     </div>
