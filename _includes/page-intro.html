@@ -15,13 +15,23 @@
       {% endif %}
     </div>
   </div>
-  {% if page.intro_subtext %}
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        {{ page.intro_subtext | markdownify }}
-      </div>
+</div>
+
+{% if page.intro_subtext %}
+<div style="  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  overflow: hidden;">
+
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      {{ page.intro_subtext | markdownify }}
     </div>
   </div>
-  {% endif %}
 </div>
+
+</div>
+{% endif %}
