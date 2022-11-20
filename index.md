@@ -13,5 +13,5 @@ intro_subtext: "*The Digital City Institute is a **non-profit organization** tha
 
 is a **think tank*** that explores the **'Digital City'** concept for social interaction in modern communities, based on **participatory and rewarding frameworks**.
 
-You are invited to join!
+You are invited to join us!
 
