@@ -1,7 +1,10 @@
 
 <div class="strip">
     <div class="container pt-6 pb-6">
-        <h2 class="text-center">Projects</h2>
+        <div>
+            <h2 class="text-center">Projects</h2>
+            <p class="text-center">The following projects are currently active.</p>
+        </div>
         <div class="row">
             {% assign projects = site.projects | sort: "order" %}
             {% for project in projects %}
