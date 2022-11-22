@@ -5,7 +5,7 @@
         {% if site.logo.desktop %}
           <img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" />
         {% else %}
-          <h2>{{ site.title }}</h2>
+          <h3>{{ site.title }}</h3>
         {% endif %}
       </a>
     </div>
@@ -14,7 +14,7 @@
         {% if site.logo.mobile %}
           <img width="{{ site.logo.mobile_width }}" height="{{ site.logo.mobile_height }}" alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" />
         {% else %}
-          <h2>{{ site.title }}</h2>
+          <h4>{{ site.title }}</h4>
         {% endif %}
       </a>
     </div>
