@@ -10,7 +10,7 @@
                         <h2 class="service-title">
                             <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
                         </h2>
-                        <p>{{ project.content | markdownify | strip_html | truncate: 100 }}</p>
+                        <p>{{ project.content | strip_html | markdownify | truncate: 100 }}</p>
                     </div>
                 </div>
             </div>
