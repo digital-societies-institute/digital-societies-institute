@@ -1,6 +1,6 @@
 ---
 layout: project
-order: 108
+order: 308
 permalink: "/city-operating-system/"
 title: City's Operating System
 ---
