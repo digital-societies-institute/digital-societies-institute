@@ -1,6 +1,6 @@
 ---
 layout: project
-order: 50
+order: 100
 permalink: "/virtual-city-platform/"
 title: Virtual City Platform
 ---
