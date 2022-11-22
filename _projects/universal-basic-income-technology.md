@@ -1,6 +1,6 @@
 ---
 layout: project
-order: 110
+order: 120
 permalink: "/universal-basic-income-technology/"
 title: Universal Basic Income Technology
 ---
