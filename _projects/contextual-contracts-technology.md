@@ -1,8 +1,8 @@
 ---
 layout: project
 order: 150
-permalink: "/universal-basic-income-technology/"
-title: Universal Basic Income Technology
+permalink: "/contextual-contracts-technology/"
+title: Contextual Contracts Technology
 ---
 
-Universal Basic Income Technology
+Contextual Contracts Technology
