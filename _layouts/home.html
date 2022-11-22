@@ -7,8 +7,9 @@ bodyClass: "page-home"
 
 {% include boards-cards.html %}
 
-<div class="strip">
-    {% include projects.html %}
+{% include projects.html %}
+
+<div class="container">
     <div class="row justify-content-center">
       <div class="col-auto m-2 m-md-4">
         <a class="button button-primary" href="{{ "projects" | relative_url }}">View All Projects</a>
