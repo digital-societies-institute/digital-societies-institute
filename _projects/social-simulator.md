@@ -1,8 +1,8 @@
 ---
 layout: project
 order: 108
-permalink: "/social-simulator/"
-title: Social Simulator
+permalink: "/social-interaction-simulator/"
+title: Social Interaction Simulator
 ---
 
-Social Simulator
+Social Interaction Simulator
