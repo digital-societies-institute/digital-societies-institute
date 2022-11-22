@@ -1,8 +1,8 @@
 ---
 layout: project
 order: 108
-permalink: "/social-interaction-simulator/"
-title: Social Interaction Simulator
+permalink: "/city-operating-system/"
+title: City's Operating System
 ---
 
-Social Interaction Simulator
+**CityOS** - the operating system for cities
