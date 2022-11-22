@@ -7,29 +7,11 @@ bodyClass: "page-home"
 
 {% include boards-cards.html %}
 
-<!--
 <div class="strip">
-  <div class="container pt-6 pb-6 pb-md-10">
-    <div class="row justify-content-start">
-      {% assign limit = site.home.limit_projects | default: 6 %}
-      {% for project in site.projects limit: limit %}
-      <div class="col-12 col-md-6 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
-            </h2>
-            <p>{{ project.content | markdownify | strip_html | truncate: 100 }}</p>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
+    {% include projects.html %}
     <div class="row justify-content-center">
       <div class="col-auto mt-2 mt-md-4">
         <a class="button button-primary" href="{{ "projects" | relative_url }}">View All Projects</a>
       </div>
     </div>
-  </div>
 </div>
--->
