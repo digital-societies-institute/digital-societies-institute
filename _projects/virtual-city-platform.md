@@ -1,8 +1,8 @@
 ---
 layout: project
-order: 100
+order: 101
 permalink: "/virtual-city-platform/"
 title: Virtual City Platform
 ---
 
-**IM.CITY** - The Virtual City Platform
+**UR.CITY** - The Virtual City Platform
