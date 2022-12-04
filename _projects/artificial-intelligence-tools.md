@@ -5,4 +5,4 @@ permalink: "/artificial-intelligence-tools/"
 title: Artificial Intelligence Tools
 ---
 
-Artificial Intelligence Tools
+Artificial intelligence tools for digital city ecosystems.
