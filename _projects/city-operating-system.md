@@ -2,7 +2,7 @@
 layout: project
 order: 3
 permalink: "/city-operating-system/"
-title: The Operating System for Digital City
+title: The Digital City Operating System
 ---
 
 **CityOS.dev** is our exciting project to develop an operating system for digital societies. 
