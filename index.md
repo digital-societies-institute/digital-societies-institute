@@ -11,7 +11,7 @@ intro_subtext: "*The Digital City Institute is a **non-profit organization** tha
 
 # The Digital City Institute
 
-is a **think tank** focused on how technology can be used to improve social interactions and make **modern communities** more **collaborative and participatory** through **digital rewards systems**.
+is a **think tank** focused on how **technology** can be used to improve **social interactions** and make **modern communities** more **collaborative and participatory** through **digital rewards systems**.
 
 You are invited to join us!
 
