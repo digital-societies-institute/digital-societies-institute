@@ -1,6 +1,6 @@
 ---
 layout: project
-order: 100
+order: 300
 permalink: "/digital-city-platform/"
 title: Digital City Platform
 ---
