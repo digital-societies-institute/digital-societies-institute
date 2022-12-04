@@ -10,4 +10,4 @@ intro_image_hide_on_mobile: true
 
 # The Professional Supervisory Board
 
-is a group of highest level professionals who provide oversight and guidance for the institute's conceptual and standardization work. They ensure that the institute's research and development efforts align with industry standards and best practices, and provide support for developers as they implement new technologies and solutions. The board also helps to facilitate collaboration and coordination between the institute and industry partners.
+is a group of highest level professionals who provide oversight and guidance for the institute's conceptual and standardization work. They ensure that the institute's research and development efforts align with industry standards and best practices, and provide support for developers as they implement new technologies and solutions.
