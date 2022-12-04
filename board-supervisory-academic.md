@@ -8,6 +8,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Academic Supervisory Board
+# The Academic Supervisory Board
 
-Academic Supervisory Board
+is a group of academics who provide oversight and guidance for the institute's conceptual work and research planning. They ensure that the institute's research adheres to ethical and professional standards, and provide support and resources for researchers as they develop and plan their studies. The board also helps to facilitate collaboration and coordination among different research groups.
