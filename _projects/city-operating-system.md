@@ -5,8 +5,7 @@ permalink: "/city-operating-system/"
 title: The Digital City Operating System
 ---
 
-**[CityOS]** is our exciting project to develop an operating system for digital societies. 
-
+**[CityOS]** is our exciting project to develop an operating system for digital societies.   
 This operating system will be designed to support the unique needs and challenges of modern communities, and will provide a framework for social interaction and collaboration among individuals and organizations. 
 
 Our goal is to create a system that is scalable, flexible, and user-friendly, and that can be customized to meet the specific needs of different communities. 
