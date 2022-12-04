@@ -9,4 +9,4 @@ The digital rewards framework will be designed to support a wide range of applic
 
 The goal of this project is to create a flexible and scalable system that can be used by communities of all sizes to encourage collaboration and participation. 
 
-We are seeking researchers and developers with expertise in social networking, game design, and behavioral psychology to join our team and help make this vision a reality.
+We are inviting researchers and developers with expertise in social networking, game design, and behavioral psychology to join us and help make this vision a reality.
