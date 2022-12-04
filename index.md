@@ -9,9 +9,9 @@ show_call_box: true
 intro_subtext: "*The Digital City Institute is a **non-profit organization** that is **open to the public** and **open to community participation**."
 ---
 
-# Digital City Institute
+# The Digital City Institute
 
-is a **think tank*** that explores the **'Digital City'** concept for social interaction in modern communities, based on **participatory and rewarding frameworks**.
+is a **think tank** focused on studying how technology can be used to improve social interactions and make modern communities more collaborative and participatory through digital rewards systems.
 
 You are invited to join us!
 

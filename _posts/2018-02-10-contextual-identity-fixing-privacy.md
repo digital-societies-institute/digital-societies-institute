@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Contextual Identity — Fixing the Privacy"
-permalink: "/cotextual-identity/"
+permalink: "/contextual-identity/"
 author: "Clement Nicolaescu"
 ---
 
