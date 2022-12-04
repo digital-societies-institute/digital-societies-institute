@@ -2,7 +2,7 @@
 layout: project
 order: 91
 permalink: "/participatory-framework/"
-title: Participatory And Collaborative Framework
+title: Participatory Framework
 ---
 
 A participatory framework is a set of principles and guidelines that are used to design and implement programs and initiatives that involve active participation to the decision-making process from members of a community.    
