@@ -39,8 +39,6 @@ The Digital City Institute is committed to building a strong community of indust
 
 We believe that digital communities are the future of cities, and we are committed to helping them thrive. We are currently working on a number of projects that will help us achieve this goal.
 
-### The Future
-
 As the world becomes increasingly interconnected, the importance of digital communities will only continue to grow. By providing platforms for collaboration, innovation, and support, these communities have the potential to make cities more livable, sustainable, and resilient.
 
 We are excited to be a part of this movement, and we look forward to working with you to build a better future for our cities.   
