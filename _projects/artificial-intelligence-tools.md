@@ -15,7 +15,7 @@ Some examples of AI tools and solutions that the Digital City Institute is explo
 
 1.    AI-powered decision-making tools that can assist digital communities in making collective decisions, by providing data, analysis, and insights.
 
-1.    AI-powered moderation and moderation tools that can help to manage and regulate online discussions and debates within a digital community.
+1.    AI-powered moderation tools that can help to manage and regulate online discussions and debates within a digital community.
 
 1.    AI-powered personal assistants that can provide support and assistance to community members, by answering questions, providing information, and helping to resolve problems.
 
