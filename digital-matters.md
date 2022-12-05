@@ -44,7 +44,7 @@ As the world becomes increasingly interconnected, the importance of digital comm
 We are excited to be a part of this movement, and we look forward to working with you to build a better future for our cities.   
 Are you passionate about digital technology and its impact on society? Do you want to be part of a community of like-minded individuals who are working to advance the field and shape the future of our digital world? If so, we invite you to join the Digital City Institute and become a part of our efforts.
 
-### Directions  
+### Digital Directions  
 
 Some of the most important directions for our activity are:
 
