@@ -1,6 +1,6 @@
 ---
 layout: supervisor
-order: 5000
+order: 1000
 promoted: true
 full_name: Cosmina Andreea Manea
 image: /images/boards/academic/cosmina_andreea_manea_sq.jpg
