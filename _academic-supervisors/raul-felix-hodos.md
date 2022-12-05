@@ -13,7 +13,6 @@ domain: legal
 ---
 
 
-As a Doctor of Law researching the "electronic payments" and the impact of the new technologies to the commercial law and the financial law, Raul is an appreciated Professor and an experienced practitioner.
-
+As a Doctor of Law researching the "electronic payments" and the impact of the new technologies to the commercial law and the financial law, Raul is an appreciated Professor and an experienced practitioner.     
 As the President of the Research Society for Public and Private Affairs and the Coordinator of the Center for Applied Research in Law and Business, he published numerous scientific articles and specialty books.
 
