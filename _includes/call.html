@@ -5,9 +5,13 @@
     {% endif %}
     {% if site.data.contact.email %}
     <div class="call-email">
-      <strong>Why Digital Matters? </strong>
-      <a href="/digital-matters/" ><strong>Read more ...</strong></a>
+      <a href="/digital-matters/" ><strong>Why Digital Matters? </strong></a>
     </div>
     {% endif %}
   </div>
+    {% if include.show_button %}
+      <div class="call-box-bottom">
+        <a href="/digital-matters/" ><strong>Read more ...</strong></a>
+      </div>
+    {% endif %}
 </div>
