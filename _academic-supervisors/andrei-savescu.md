@@ -1,6 +1,6 @@
 ---
 layout: supervisor
-order: 110
+order: 119
 promoted: true
 full_name: Andrei Savescu, PhD
 image: /images/boards/academic/andrei_savescu_sq.jpg
