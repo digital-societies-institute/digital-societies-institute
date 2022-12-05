@@ -1,7 +1,7 @@
 ---
-title: Why Digital Matter
+title: Why Digital Matters
 layout: page
-description: Why Digital Matter
+description: Why Digital Matters
 bodyClass: page-about
 ---
 
@@ -25,6 +25,8 @@ Virtual spaces can also provide a safe and controlled environment for members of
 ### Digital Community
 
 Digital communities can take many different forms. Some are focused on specific topics or interests, such as technology, sustainability, or education. Others are organized around geographic regions, bringing together people who live in the same city or neighborhood.
+
+They can be a powerful force for change. By bringing together large numbers of people who are passionate about a particular issue, these communities can raise awareness and mobilize action on important issues.
 
 Regardless of their specific focus, digital communities have the potential to play a critical role in shaping the future of cities. By connecting people from diverse backgrounds and perspectives, these communities can foster collaboration and drive innovation.
 
