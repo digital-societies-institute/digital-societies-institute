@@ -1,9 +1,11 @@
 ---
-title: Why Digital Communities Matter
+title: Why Digital Matter
 layout: page
-description: Why Digital Communities Matter
+description: Why Digital Matter
 bodyClass: page-about
 ---
+
+
 
 **Digital communities are the new frontier for social interaction.**   
 They are the place where people come together to express their creativity, collaborate on projects, and build relationships. 
