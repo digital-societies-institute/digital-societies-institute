@@ -42,3 +42,6 @@ We believe that digital communities are the future of cities, and we are committ
 ### The Future
 
 As the world becomes increasingly interconnected, the importance of digital communities will only continue to grow. By providing platforms for collaboration, innovation, and support, these communities have the potential to make cities more livable, sustainable, and resilient.
+
+We are excited to be a part of this movement, and we look forward to working with you to build a better future for our cities.   
+Are you passionate about digital technology and its impact on society? Do you want to be part of a community of like-minded individuals who are working to advance the field and shape the future of our digital world? If so, we invite you to join the Digital City Institute and become a part of our efforts.
