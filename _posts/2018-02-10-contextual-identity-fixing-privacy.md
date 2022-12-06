@@ -6,7 +6,7 @@ author: "Clement Nicolaescu"
 ---
 
 >
-> This article was first published on [Medium], 2018-02-10.
+> This article was first published on [Medium](https://medium.com/hackernoon/contextual-identity-fixing-the-privacy-a40ea7ce6b32){:target="_blank"}, 2018-02-10.
 
 ![Contextual Identity](/images/posts/contextual_identity_picture.webp)
 
@@ -108,6 +108,3 @@ It will be the task of new technology to implement the concept of contextual ide
 
 
 In order to properly implement the concept of contextual identity, new blockchain and tangle protocols may be needed. Blockchain technology, which uses a distributed ledger to store and verify transactions, has the potential to enable the secure and efficient management of contextual identities. Tangle protocols, such as IOTA, may be an even better fit for this purpose, as they are designed to support the secure and efficient transfer of value without the need for a central authority. By leveraging the capabilities of these new technologies, it may be possible to implement contextual identity at a large scale, enabling the secure and privacy-preserving management of personal information.
-
-
-[Medium]: https://medium.com/@clementnic/contextual-identity-fixing-the-privacy-1b2b2b2b2b2b :target=_blank
