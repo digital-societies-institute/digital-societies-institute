@@ -93,10 +93,11 @@ There are two solutions to the privacy problems caused by our current approach t
 
 The main advantage of using contextual identities is that it allows for the isolation of different contexts from one another. This means that a receiver who receives identifying information in one context will not be able to use the same information in another context. This helps to protect privacy by ensuring that identifying information cannot be easily shared or transferred between different contexts. By using contextual identities, it is possible to provide just enough information for a specific interaction, without revealing more than is necessary. This can help to prevent unauthorized access and prevents the reuse of unique ID elements and helps to protect the privacy of the entity being identified preventing identity-related fraud.
 
-==
+![Contextual Identity](/images/posts/contextual_identity_schema.webp)
 
 One way to understand the concept of "contextual identities" is to think of it in terms of credit cards. For example, with the same bank account, we may use a different credit card number for each merchant. This means that if someone were to "steal" our credit card number from one merchant, they would not be able to use it to steal our money from other merchants. In this way, the use of different credit card numbers for different contexts helps to protect our financial information and prevent fraud. Similarly, the use of contextual identities for other types of interactions can help to protect our personal information and prevent unauthorized access to sensitive data.
 
+==
 
 In a basic way, we use contextual identities naturally in our everyday lives. For example, we may be known by our first name by our colleagues at work, by a nickname by our close friends, and by our last name when dealing with officials. These are different contextual identities that we use depending on the context and the people we are interacting with. In this way, we are able to provide just enough information to enable the interaction, without revealing more than is necessary. This helps to protect our personal information and prevent unauthorized access or misuse of our identity.
 
