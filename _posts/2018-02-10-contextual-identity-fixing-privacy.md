@@ -57,7 +57,7 @@ This is because these intelligent functions are designed and programmed by human
 ## The Past — Unique Identity
 
 ----------
-
+&nbsp;
 
 As a result of their need for identification, humans have developed a complex and strict system of identification.    
 
@@ -70,6 +70,8 @@ This could be because AI has a different perspective on **contextual details**, 
 
 
 ### The trouble with unique identity
+&nbsp;
+
 
 **However, the uniqueness of a person's identity means that it can be reused in different contexts. This means that the identification elements we use in one situation can potentially be used in other contexts, sometimes in a fraudulent manner. Because of this, the strictness and complexity of our current system of identification is necessary in order to prevent fraudulent use of someone's identity.**
 
