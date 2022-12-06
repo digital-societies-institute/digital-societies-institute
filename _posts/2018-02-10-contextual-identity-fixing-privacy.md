@@ -89,7 +89,7 @@ There are two solutions to the privacy problems caused by our current approach t
 ----------
 &nbsp;
 
-**"Contextual identity"** refers to the use of different identifiers for an "entity" (such as a person, object, or virtual asset) depending on the context. This approach does not allow for the complete identification of the entity, but still allows the receiver to complete the authorization process as needed. In other words, contextual identity allows for partial identification that is specific to the context in which the interaction is taking place. This can help to protect privacy while still enabling authorized interactions.
+>**"Contextual identity"** refers to the use of different identifiers for an "entity" (such as a person, object, or virtual asset) depending on the context. This approach does not allow for the complete identification of the entity, but still allows the receiver to complete the authorization process as needed. In other words, contextual identity allows for partial identification that is specific to the context in which the interaction is taking place. This can help to protect privacy while still enabling authorized interactions.
 
 In the context of identity, "contextual identity" refers to the use of different identifiers for the same "entity" (such as a person) depending on the context. This means that the same person may have different identifying elements in different contexts. This approach prevents the reuse of unique ID elements and helps to protect the privacy of the entity being identified.
 
