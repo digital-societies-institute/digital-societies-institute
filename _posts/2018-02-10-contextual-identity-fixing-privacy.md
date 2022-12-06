@@ -69,6 +69,8 @@ As **artificial intelligence** becomes more advanced, it is possible that this w
 This could be because AI has a different perspective on **contextual details**, or because it is able to learn and adapt to different approaches to identity. It is not clear exactly how this will play out, but we can be sure that the way we think about identity in relation to technology will change in the future.
 
 
+### The trouble with unique identity
+
 **However, the uniqueness of a person's identity means that it can be reused in different contexts. This means that the identification elements we use in one situation can potentially be used in other contexts, sometimes in a fraudulent manner. Because of this, the strictness and complexity of our current system of identification is necessary in order to prevent fraudulent use of someone's identity.**
 
 
