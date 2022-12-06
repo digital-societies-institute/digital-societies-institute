@@ -1,23 +1,22 @@
 ---
 layout: post
-title:  "Contextual Identity — Fixing the Privacy"
+title:  "Contextual Identity"
 permalink: "/contextual-identity/"
 author: "Clement Nicolaescu"
 ---
 
 >
-> This article was first published on [Medium](https://medium.com/hackernoon/contextual-identity-fixing-the-privacy-a40ea7ce6b32){:target="_blank"}, 2018-02-10.
+> This article was first published on [Medium](https://medium.com/hackernoon/contextual-identity-fixing-the-privacy-a40ea7ce6b32){:target="_blank"}, 2018-02-10. This is un updated format.
 
 ![Contextual Identity](/images/posts/contextual_identity_picture.webp)
 
 
-# Unique Identity vs. Contextual Identity
+# Fixing the Privacy: Unique Identity vs. Contextual Identity
 
 
-The concept of identity is a human construct, 
-and it is time for a significant shift in how we think about it.   
+**The concept of identity is a human construct, and it is time for a significant shift in how we think about it.**
+
 In the universe, interactions occur between entities that are not defined by their identity.
-
 Despite the fact that the universe does not care about identity, humans still need a form of identification because our lives are shaped by interactions with three types of entities: 
 - objects, 
 - people 
