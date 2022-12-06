@@ -7,7 +7,9 @@ author: "Clement Nicolaescu"
 
 >
 > This article was first published on [Medium](https://medium.com/@clementnic/contextual-identity-fixing-the-privacy-1b2b2b2b2b2b), 2018-02-10.
-> 
+
+![Contextual Identity](/images/posts/contextual_identity_picture.webp)
+
 
 # Unique Identity vs. Contextual Identity
 
