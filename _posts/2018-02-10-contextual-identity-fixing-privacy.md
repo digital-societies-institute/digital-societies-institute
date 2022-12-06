@@ -20,11 +20,14 @@ In the universe, interactions occur between entities that are not defined by the
 Despite the fact that the universe does not care about identity, humans still need a form of identification because our lives are shaped by interactions with three types of entities: *objects*, *people*, *technology*. 
 
 In order to authorize or track these interactions, we need some way of identifying ourselves and the entities we interact with.   
-The need for this identification is a fundamental part of our existence as humans.
+
+**Still, the need for this identification is a fundamental part of our existence as humans.**
 
 
 
 ## The Past — Unique Identity
+
+----------
 
 ### Interaction with objects
 
@@ -75,6 +78,8 @@ There are two solutions to the privacy problems caused by our current approach t
 
 ## The Future — Contextual Identity
 
+----------
+
 
 **"Contextual identity"** refers to the use of different identifiers for an "entity" (such as a person, object, or virtual asset) depending on the context. This approach does not allow for the complete identification of the entity, but still allows the receiver to complete the authorization process as needed. In other words, contextual identity allows for partial identification that is specific to the context in which the interaction is taking place. This can help to protect privacy while still enabling authorized interactions.
 
@@ -99,6 +104,8 @@ In some cases, governments may use a form of contextual identification that is d
 While these documents may serve as contextual ID in certain situations, they still hold the individual's unique identity, and the document itself serves as proof of authorization for that unique identity. This is different from a true contextual identity, which would use different identifying elements depending on the context. The use of contextual ID documents by governments can still help to protect privacy and prevent identity fraud, but it is not the same as using contextual identities.
 
 ## Conclusion
+
+----------------
 
 It will be the task of new technology to implement the concept of contextual identity at the root level of our interactions. This will require the development of new systems and technologies that are able to generate, manage, and verify contextual identities in a way that is secure, efficient, and user-friendly. By integrating contextual identity into the core of our interactions, we will be able to protect our privacy and prevent unauthorized access to our personal information. This will be particularly important as we continue to rely on technology for an increasingly large portion of our daily activities.
 
