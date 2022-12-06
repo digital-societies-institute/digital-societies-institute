@@ -25,7 +25,7 @@ In order to authorize or track these interactions, we need some way of identifyi
 
 
 
-## The Past — Unique Identity
+## When do we need identification?
 
 ----------
 
@@ -54,17 +54,15 @@ This is because these intelligent functions are designed and programmed by human
 &nbsp;
 &nbsp;
 
-==
+The Past — Unique Identity
 
 &nbsp;
 
 
-As artificial intelligence becomes more advanced, it is possible that this will change. AI may be able to design and program technology in a way that does not require a human approach to identity.   
-This could be because AI has a different perspective on contextual details, or because it is able to learn and adapt to different approaches to identity. It is not clear exactly how this will play out, but it is possible that the way we think about identity in relation to technology will change in the future.
-
-
 As a result of their need for identification, humans have developed a complex and strict system of identification. This system is based on the concept of a "unique identity" – the idea that a person can only be one specific person. In order to establish and verify this unique identity, humans have implemented various "unique ID elements" such as names, photos, and fingerprints. These elements are used to confirm the uniqueness of a person's identity.   
 
+As artificial intelligence becomes more advanced, it is possible that this will change. AI may be able to design and program technology in a way that does not require a human approach to identity.   
+This could be because AI has a different perspective on contextual details, or because it is able to learn and adapt to different approaches to identity. It is not clear exactly how this will play out, but it is possible that the way we think about identity in relation to technology will change in the future.
 
 
 **However, the uniqueness of a person's identity means that it can be reused in different contexts. This means that the identification elements we use in one situation can potentially be used in other contexts, sometimes in a fraudulent manner. Because of this, the strictness and complexity of our current system of identification is necessary in order to prevent fraudulent use of someone's identity.**
