@@ -9,8 +9,8 @@ author: "Clement Nicolaescu"
 > This article was first published on [Medium](https://medium.com/hackernoon/contextual-identity-fixing-the-privacy-a40ea7ce6b32){:target="_blank"}, 2018-02-10. This is un updated format.
 
 ![Contextual Identity](/images/posts/contextual_identity_picture.webp)
-<div style="padding-bottom: 8px; font-size: smaller; color: grey;">
-Photo by <a class="au ly" href="https://unsplash.com/photos/eIvLuyDjCQI?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener ugc nofollow" target="_blank">Matúš Kovačovský</a> on <a class="au ly" href="https://unsplash.com/search/photos/multiple-identity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener ugc nofollow" target="_blank">Unsplash</a>
+<div style="margin-bottom: 8px; margin-top: 0px; font-size: smaller; color: grey;">
+Photo by <a href="https://unsplash.com/photos/eIvLuyDjCQI?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener ugc nofollow" target="_blank">Matúš Kovačovský</a> on <a class="au ly" href="https://unsplash.com/search/photos/multiple-identity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener ugc nofollow" target="_blank">Unsplash</a>
 </div>
 # Fixing the Privacy: Unique Identity vs. Contextual Identity
 
