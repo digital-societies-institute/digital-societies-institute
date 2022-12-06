@@ -78,16 +78,16 @@ This could be because AI has a different perspective on **contextual details**, 
 
 There are two solutions to the privacy problems caused by our current approach to identification:
 
-1. Whenever possible, interactions should be carried out without the need for identification. For example, we should be able to pay for an apple at the market without needing to identify ourselves. This is the natural way of interacting, but it is not always used. Businesses and governments often require identification unnecessarily. This situation is starting to be regulated by lawmakers, such as the EU-GPDR.
+1. **Get rid of identification.** Whenever possible, interactions should be carried out without the need for identification. For example, we should be able to pay for an apple at the market without needing to identify ourselves. This is the natural way of interacting, but it is not always used. Businesses and governments often require identification unnecessarily. This situation is starting to be regulated by lawmakers, such as the EU-GPDR.
 
 
-2. When it is not possible to carry out an interaction without identification, the identification process should use "contextual identity" instead of "unique identity". This means that the identification elements used should be specific to the context in which the interaction is taking place, rather than being the same in all situations.
+2. **Use contextual identity.** When it is not possible to carry out an interaction without identification, the identification process should use **"contextual identity" instead of "unique identity"**. This means that the identification elements used should be specific to the context in which the interaction is taking place, rather than being the same in all situations.
 
 
 ## The Future — Contextual Identity
 
 ----------
-
+&nbsp;
 
 **"Contextual identity"** refers to the use of different identifiers for an "entity" (such as a person, object, or virtual asset) depending on the context. This approach does not allow for the complete identification of the entity, but still allows the receiver to complete the authorization process as needed. In other words, contextual identity allows for partial identification that is specific to the context in which the interaction is taking place. This can help to protect privacy while still enabling authorized interactions.
 
