@@ -93,15 +93,18 @@ There are two solutions to the privacy problems caused by our current approach t
 
 The main advantage of using contextual identities is that it allows for the isolation of different contexts from one another. This means that a receiver who receives identifying information in one context will not be able to use the same information in another context. This helps to protect privacy by ensuring that identifying information cannot be easily shared or transferred between different contexts. By using contextual identities, it is possible to provide just enough information for a specific interaction, without revealing more than is necessary. This can help to prevent unauthorized access and prevents the reuse of unique ID elements and helps to protect the privacy of the entity being identified preventing identity-related fraud.
 
+==
 
 One way to understand the concept of "contextual identities" is to think of it in terms of credit cards. For example, with the same bank account, we may use a different credit card number for each merchant. This means that if someone were to "steal" our credit card number from one merchant, they would not be able to use it to steal our money from other merchants. In this way, the use of different credit card numbers for different contexts helps to protect our financial information and prevent fraud. Similarly, the use of contextual identities for other types of interactions can help to protect our personal information and prevent unauthorized access to sensitive data.
 
 
 In a basic way, we use contextual identities naturally in our everyday lives. For example, we may be known by our first name by our colleagues at work, by a nickname by our close friends, and by our last name when dealing with officials. These are different contextual identities that we use depending on the context and the people we are interacting with. In this way, we are able to provide just enough information to enable the interaction, without revealing more than is necessary. This helps to protect our personal information and prevent unauthorized access or misuse of our identity.
 
+==
 
 Another example of the use of contextual identities can be seen in the use of barcode tickets. When you buy access to a theater performance, for example, a ticket is issued with an identification number, typically in the form of a barcode. This barcode serves as your identification for the specific context of attending that performance on a particular evening, at a specific theater, for a specific play, and even for a specific seat within the theater. In this way, the barcode on the ticket serves as your "contextual identity" for the purpose of accessing the performance. This allows the theater to confirm your identity and grant you access without needing to collect and store more personal information than is necessary.
 
+==
 
 In some cases, governments may use a form of contextual identification that is different from contextual identity. For example, many countries issue "contextual ID documents" such as driving licenses. In some cases, such as in many English-speaking countries, there may not be a centralized unique ID document. There may also be specialized "proof of age" documents that are used by young people to purchase alcohol.
 
@@ -110,6 +113,8 @@ While these documents may serve as contextual ID in certain situations, they sti
 ## Conclusion
 
 ----------------
+&nbsp;
+
 
 It will be the task of new technology to implement the concept of contextual identity at the root level of our interactions. This will require the development of new systems and technologies that are able to generate, manage, and verify contextual identities in a way that is secure, efficient, and user-friendly. By integrating contextual identity into the core of our interactions, we will be able to protect our privacy and prevent unauthorized access to our personal information. This will be particularly important as we continue to rely on technology for an increasingly large portion of our daily activities.
 
