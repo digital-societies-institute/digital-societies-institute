@@ -54,7 +54,7 @@ This is because these intelligent functions are designed and programmed by human
 &nbsp;
 &nbsp;
 
-***
+**
 
 &nbsp;
 
