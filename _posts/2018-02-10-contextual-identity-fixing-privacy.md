@@ -31,29 +31,31 @@ In order to authorize or track these interactions, we need some way of identifyi
 
 ### Interaction with objects
 
-When interacting with objects, our identity is not relevant.   
-The laws of physics apply regardless of who we are.    
+When interacting with objects, our identity is not relevant. The laws of physics apply regardless of who we are.      
 These objects do not care about our identity and will follow the laws of physics regardless.
 
 ### Interaction with people
 
-When interacting with other people, our identity becomes more important.    
-In most cases, we need to identify ourselves in order to establish trust and facilitate communication.    
+When interacting with other people, our identity becomes more important. In most cases, we need to identify ourselves in order to establish trust and facilitate communication.    
 Knowing "who are you?" is often crucial in these interactions, as it helps to determine how we should relate to one another.    
 This is why identification is typically necessary when interacting with other people.
 
 
 ### Interaction with technology
 
-When it comes to technology, the situation is more complex.   
-The "thing" part of technology, such as the physical components of a computer, follows the laws of physics and does not require identification.     
-However, the "intelligent" part of technology, which is programmed by humans, follows human laws of identification.    
-This means that in order to interact with certain aspects of technology, such as the intelligent functions of a computer, we need to identify ourselves.   
-This is because these intelligent functions are designed and programmed by humans, who have a different approach to identification and authorization.
+When it comes to technology, the situation is more complex.    
+
+The *"thing"* part of technology, such as the physical components of a computer, follows the laws of physics and does not require our identification.     
+However, the *"intelligent"* part of technology, which is programmed by humans, follows human laws of identification.    
+This means that in order to interact with certain aspects of technology, such as the intelligent functions of a computer, we might need to identify ourselves.   
+This is because these intelligent functions are designed and programmed by humans, who have a different scope for identification and authorization.
 
 
 &nbsp;
 &nbsp;
+
+***
+
 &nbsp;
 
 
