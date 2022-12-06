@@ -17,10 +17,7 @@ author: "Clement Nicolaescu"
 **The concept of identity is a human construct, and it is time for a significant shift in how we think about it.**
 
 In the universe, interactions occur between entities that are not defined by their identity.
-Despite the fact that the universe does not care about identity, humans still need a form of identification because our lives are shaped by interactions with three types of entities: 
-- objects, 
-- people 
-- technology. 
+Despite the fact that the universe does not care about identity, humans still need a form of identification because our lives are shaped by interactions with three types of entities: *objects*, *people*, *technology*. 
 
 In order to authorize or track these interactions, we need some way of identifying ourselves and the entities we interact with.   
 The need for this identification is a fundamental part of our existence as humans.
