@@ -9,15 +9,15 @@ main_picture: /images/posts/internet_context_picture.webp
 
 # What context means for technology?
 
+By understanding the nature and **importance of interaction and their context**, we can gain insight into the complex systems that shape our world and our lives.
+
 ## The Interactions
 
 ----------------
 &nbsp;
 
 The basic component of both our daily lives and the universe as a whole is the **"interaction"**.      
-Interactions between entities, whether they be people, objects, or technology, are the fundamental building blocks of our experiences and the way the universe functions.    
-
-By understanding the nature and **importance of interaction**, we can gain insight into the complex systems that shape our world and our lives.
+Interactions between entities, whether they be people, objects, or technology, are the fundamental building blocks of our experiences and the way the universe functions.
 
 We interact with everything outside our body, as well as with ourselves, through the workings of our brains and other internal organs. The brain, in particular, is capable of creating an entire world inside of our minds, full of interactions and experiences. This inner world allows us to think, imagine, and dream, and it is an essential part of who we are as human beings. 
 
