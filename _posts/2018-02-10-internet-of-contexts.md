@@ -3,13 +3,9 @@ layout: post
 title:  "The Network of Contexts"
 permalink: "/network-of-contexts/"
 author: "Clement Nicolaescu"
+note: "This article was first published on [Medium](https://medium.com/@_IMCITY/the-internet-of-contexts-5fb2df321f3c), 2018-02-10. Photo by <a href=https://unsplash.com/photos/BW0vK-FA3eg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText target=_blank>Clint Adair</a> on <a href=https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText target=_blank>Unsplash</a>"
+main_picture: /images/posts/internet_context_picture.webp
 ---
-
->
-> This article was first published on [Medium](https://medium.com/@_IMCITY/the-internet-of-contexts-5fb2df321f3c), 2018-02-10. Photo by <a class="au kq" href="https://unsplash.com/photos/BW0vK-FA3eg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener ugc nofollow" target="_blank">Clint Adair</a> on <a class="au kq" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener ugc nofollow" target="_blank">Unsplash</a>
-
-
-![Network of contexts](/images/posts/internet_context_picture.webp)
 
 # What context means for technology?
 

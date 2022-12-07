@@ -50,6 +50,15 @@ bodyClass: "page-service"
         {% if page.author %}
           <div class="content" style="margin-top: 5px; margin-bottom: 10px; color: #888888;">Author: {{page.author}} </div>
         {% endif %}
+
+        {% if page.note %}
+          >{{page.note}}
+        {% endif %}
+
+        {% if page.main_picture %}
+          ![Contextual Identity]({{page.main_picture}})
+        {% endif %}
+
         <div class="content">{{content}}</div>
       </div>
     </div>

@@ -3,12 +3,9 @@ layout: post
 title:  "Contextual Identity"
 permalink: "/contextual-identity/"
 author: "Clement Nicolaescu"
+note: "This article was first published on [Medium](https://medium.com/hackernoon/contextual-identity-fixing-the-privacy-a40ea7ce6b32){:target=_blank}, 2018-02-10. This is un updated format. Photo by <a href=https://unsplash.com/photos/eIvLuyDjCQI?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText target=_blank>Matúš Kovačovský</a> on < href=https://unsplash.com/search/photos/multiple-identity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText target=_blank>Unsplash</a>"
+main_picture: /images/posts/contextual_identity_picture.webp
 ---
-
->
-> This article was first published on [Medium](https://medium.com/hackernoon/contextual-identity-fixing-the-privacy-a40ea7ce6b32){:target="_blank"}, 2018-02-10. This is un updated format. Photo by <a href="https://unsplash.com/photos/eIvLuyDjCQI?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener ugc nofollow" target="_blank">Matúš Kovačovský</a> on <a class="au ly" href="https://unsplash.com/search/photos/multiple-identity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener ugc nofollow" target="_blank">Unsplash</a>
-
-![Contextual Identity](/images/posts/contextual_identity_picture.webp)
 
 # Fixing the Privacy: Unique Identity vs. Contextual Identity
 
