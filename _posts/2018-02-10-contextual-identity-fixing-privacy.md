@@ -7,7 +7,7 @@ note: "This article was first published on [Medium](https://medium.com/hackernoo
 main_picture: /images/posts/contextual_identity_picture.webp
 ---
 
-# Fixing the Privacy: Unique Identity vs. Contextual Identity
+# Fixing Privacy: Unique Identity vs. Contextual Identity
 
 
 **The concept of identity is a human construct, and it is time for a significant shift in how we think about it.**
