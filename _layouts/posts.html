@@ -44,7 +44,7 @@ bodyClass: "page-service"
           <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
         </h1>
         <div class="content" style="color: #888888">{{ post.date |  date: "%B %e, %Y" }}</div>
-        <p style="margin-top: 8px;">{{ post.excerpt | strip_html | truncate: 360 }}</p>
+        <p style="margin-top: 8px;">{{ post.excerpt | strip_html | truncate: 260 }}</p>
   {% endif %}
   {% endfor %}
 
