@@ -3,7 +3,7 @@ layout: post
 title:  "Contextual Identity"
 permalink: "/contextual-identity/"
 author: "Clement Nicolaescu"
-note: "This article was first published on [Medium](https://medium.com/hackernoon/contextual-identity-fixing-the-privacy-a40ea7ce6b32){:target=_blank}, 2018-02-10. This is un updated format. Photo by [Matúš Kovačovský](https://unsplash.com/photos/eIvLuyDjCQI?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){:target=_blank} on [Unsplash](https://unsplash.com/search/photos/multiple-identity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){:target=_blank}
+note: "This article was first published on [Medium](https://medium.com/hackernoon/contextual-identity-fixing-the-privacy-a40ea7ce6b32){:target=_blank}, 2018-02-10. This is un updated format. Photo by [Matúš Kovačovský](https://unsplash.com/photos/eIvLuyDjCQI?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){:target=_blank} on [Unsplash](https://unsplash.com/search/photos/multiple-identity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){:target=_blank}"
 main_picture: /images/posts/contextual_identity_picture.webp
 ---
 
