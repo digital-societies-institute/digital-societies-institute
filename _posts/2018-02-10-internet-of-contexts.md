@@ -11,7 +11,7 @@ author: "Clement Nicolaescu"
 
 ![Network of contexts](/images/posts/internet_context_picture.webp)
 
-# A new approach on connected contexts
+# What context means for technology?
 
 ## The Interactions
 
