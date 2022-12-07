@@ -6,7 +6,15 @@ bodyClass: "page-service"
 
 
 
-<div id="index">
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="service service-single">
+
+
+
+
+
   {% for post in site.posts %}
   {% unless post.next %}
   <h2>{{ post.date | date: '%Y' }}</h2>
@@ -36,30 +44,7 @@ bodyClass: "page-service"
   <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
   {% endif %}
   {% endfor %}
-</div>
 
-
-==========================================================================================
-
-
-<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-  <div class="row justify-content-start">
-    <div class="col-12 col-md-8">
-      <div class="service service-single">
-        <h1 class="title">{{page.title}}</h1>
-        {% if page.author %}
-          <div class="content" style="margin-top: 5px; margin-bottom: 10px; color: #888888;">Author: {{page.author}} </div>
-        {% endif %}
-
-        {% if page.note %}
-          {{page.note | markdownify}}
-        {% endif %}
-
-        {% if page.main_picture %}
-          <img src="{{page.main_picture}}" alt="{{page.title}}">
-        {% endif %}
-
-        <div class="content">{{content}}</div>
       </div>
     </div>
   </div>
