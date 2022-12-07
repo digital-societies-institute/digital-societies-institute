@@ -52,13 +52,11 @@ bodyClass: "page-service"
         {% endif %}
 
         {% if page.note %}
-          {% raw %}
-            >{{page.note}}
-          {% endraw %}
+          {{page.note | markdownify}}
         {% endif %}
 
         {% if page.main_picture %}
-          ![]({{page.main_picture}})
+          <img src="{{page.main_picture}}" alt="{{page.title}}">
         {% endif %}
 
         <div class="content">{{content}}</div>
