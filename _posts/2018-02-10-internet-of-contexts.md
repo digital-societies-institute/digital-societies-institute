@@ -19,8 +19,9 @@ author: "Clement Nicolaescu"
 &nbsp;
 
 The basic component of both our daily lives and the universe as a whole is the **"interaction"**.      
-Interactions between entities, whether they be people, objects, or technology, are the fundamental building blocks of our experiences and the way the universe functions. By understanding the nature and importance of interaction, we can gain insight into the complex systems that shape our world and our lives.
+Interactions between entities, whether they be people, objects, or technology, are the fundamental building blocks of our experiences and the way the universe functions.    
 
+By understanding the nature and **importance of interaction**, we can gain insight into the complex systems that shape our world and our lives.
 
 We interact with everything outside our body, as well as with ourselves, through the workings of our brains and other internal organs. The brain, in particular, is capable of creating an entire world inside of our minds, full of interactions and experiences. This inner world allows us to think, imagine, and dream, and it is an essential part of who we are as human beings. 
 
@@ -29,9 +30,11 @@ We interact with everything outside our body, as well as with ourselves, through
 ----------------
 &nbsp;
 
-The context in which an interaction takes place is determined by the amount of information or details that are known about the entities involved. When one or more of these details change, a new context is formed. Interactions between entities can cause changes in context, either by adding new information or by altering existing information. 
+The context in which any interaction takes place is determined by the amount of information or details that are known about the entities involved. When one or more of these details change, a **new context** is formed.    
+Interactions between entities can cause changes in context, either by adding new information or by altering existing information. 
 
-While the universe is infinite and the context in which interactions take place may have an infinite number of details, only a finite number of these details are typically affected by a single interaction. Therefore, the context of an interaction can be understood by considering only the details that are involved in that interaction, or "the context frame". This limited number of details can help to simplify our understanding of the context and make it easier to analyze and predict the outcomes of interactions. By focusing on the context frame, we can gain insight into the specific factors that shape the way interactions unfold and the effects they have.
+While the universe is infinite and the context in which interactions take place may have an infinite number of details, **only a finite number of these details are typically affected by a single interaction**.     
+Therefore, the context of an interaction can be understood by considering only the details that are involved in that interaction, or **"the context frame"**. This limited number of details can help to simplify our understanding of the context and make it easier to analyze and predict the outcomes of interactions. By focusing on the context frame, we can gain insight into the specific factors that shape the way interactions unfold and the effects they have.
 
 The infinite context of the universe continues to exist and operate, we as humans are unable to consider all the details of this context simultaneously. In order to make decisions and engage in interactions effectively, we must focus on a limited number of details, or "context frames". This allows us to operate within a finite context that we can understand and manipulate. While the infinite context continues to exist and influence our actions, we are able to make informed decisions and engage in meaningful interactions by considering only a subset of the details that make up the full context.
 
@@ -50,11 +53,15 @@ Finite contexts often share details, which means that a change in one context ma
 ----------------
 &nbsp;
 
-The infinite context of the universe can be thought of as the network of all possible finite contexts. Each individual finite context is a subset of the full, infinite context, and all of the finite contexts are interconnected and can influence one another. This network of contexts allows for an almost infinite number of possible interactions and outcomes, as the details of each context can change and lead to new contexts being created. By understanding the ways in which finite contexts intersect and influence one another within the larger network of the infinite context, we can gain insight into the complex systems that shape our world and our experiences.
+The infinite context of the universe can be thought of as the network of all possible finite contexts. Each individual finite context is a subset of the full, infinite context, and all the finite contexts are interconnected and can influence one another. This network of contexts allows for an almost infinite number of possible interactions and outcomes, as the details of each context can change and lead to new contexts being created. By understanding the ways in which finite contexts intersect and influence one another within the larger network of the infinite context, we can gain insight into the complex systems that shape our world and our experiences.
 
 As technology continues to evolve and become more advanced, it is important that it be able to effectively manage interactions and the contexts in which they take place. By understanding the role that context plays in shaping interactions, technology can be designed to anticipate and adapt to changes in context, and to facilitate more effective and efficient interactions. This may require the development of new algorithms and approaches that can take into account the complex network of contexts that exists within the universe, and that can help to optimize interactions and outcomes based on the specific details of each context. As technology continues to advance, it will play an increasingly important role in managing interactions and their contexts, and in shaping the world around us.
 
-**That way, a new Internet is formed: “The Internet of Contexts**
+
+## The Internet of Contexts
+
+----------------
+&nbsp;
 
 ![Internet of Contexts](/images/posts/internet_context_schema.webp)
 
