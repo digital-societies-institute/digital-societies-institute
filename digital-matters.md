@@ -10,6 +10,10 @@ bodyClass: page-about
 **Digital communities are the new frontier for social interaction.**   
 They are the place where people come together to express their creativity, collaborate on projects, and build relationships. 
 
+The Digital City Institute is not convinced that the digital layer of our interactions should be a visual replica of the physical world that follows the same laws of physics.      
+As a result, one of the many topics that the institute is researching is the proper format for representing digital entities and their interactions.     
+This is likely to be a complex and multi-faceted area of study, as there may be many ways to represent digital entities and their interactions in a way that is effective and meaningful.     
+
 ### Digital City
 
 As cities continue to grow and evolve, the role of digital technologies in shaping urban life is becoming increasingly important. From transportation and energy systems to healthcare and education, digital technologies are transforming the way we live and work in cities.
