@@ -6,7 +6,7 @@ intro_image: "images/illustrations/city_draw11.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
-intro_subtext: "*The Digital City Institute is a **non-profit digital organization** that is **open to the public** and **open to community participation**."
+intro_subtext: "*The Digital City Institute is a **non-profit digital organization** that is **open to community participation**."
 ---
 
 # The Digital City Institute
