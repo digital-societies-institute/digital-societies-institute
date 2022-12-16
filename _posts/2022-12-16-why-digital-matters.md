@@ -10,7 +10,7 @@ author: "Clement Nicolaescu"
 **Digital communities are the new frontier for social interaction.**   
 They are the place where people come together to express their creativity, collaborate on projects, and build relationships. 
 
-The Digital City Institute is not convinced that the digital layer of our interactions should be a visual replica of the physical world that follows the same laws of physics.      
+The Digital City Institute has reservations about the current approach for the "Metaverse" where the digital layer is a visual replica of the physical world that follows the same laws of physics.      
 As a result, one of the many topics that the institute is researching is the proper format for representing digital entities and their interactions.     
 This is likely to be a complex and multi-faceted area of study, as there may be many ways to represent digital entities and their interactions in a way that is effective and meaningful.     
 
