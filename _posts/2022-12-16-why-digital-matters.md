@@ -1,8 +1,8 @@
 ---
-title: Why Digital Matters
-layout: page
-description: Why Digital Matters
-bodyClass: page-about
+layout: post
+title:  "Why Digital Matters"
+permalink: "/why-digital-matters/"
+author: "Clement Nicolaescu"
 ---
 
 
