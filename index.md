@@ -11,7 +11,8 @@ intro_subtext: "*The Digital City Institute is a **non-profit digital organizati
 
 # A Think Tank for Digital Cities
 
-as a new form of urban society based on modern concepts like **universal basic income**, **liquid democracy**, **startup society**, **network state**, developed on modern technologies like **artificial intelligence**, **distributed ledger**.
+as a new form of urban society developed on modern technologies like **artificial intelligence**, **distributed ledger**,
 
-It is focused on how **technology** can be used to improve **social interactions** and make **modern communities** more **collaborative and participatory** through **digital rewards systems**.
+focused on how **technology** can be used to improve **social interactions** and make **modern communities** more **collaborative and participatory** through **digital rewards systems**,
 
+based on modern concepts like **startup society**, **liquid democracy**, **universal basic income**, **network state** and **digital identity**.
