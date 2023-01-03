@@ -9,7 +9,7 @@ show_call_box: false
 intro_subtext: "*The Digital City Institute is a **non-profit digital organization** that aims to **promote the development of digital cities** and to **support the creation of a digital society**."
 ---
 
-# A Think Tank for Digital Cities
+# Think Tank for Digital Cities
 
 ## as a new form of urban society 
 
