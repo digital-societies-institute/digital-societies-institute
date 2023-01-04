@@ -11,9 +11,12 @@ main:
   - name: "Articles"
     url: "/posts/"
     weight: 4
+  - name: "Questions"
+    url: "/questions/"
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"
