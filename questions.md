@@ -15,5 +15,5 @@ intro_image_hide_on_mobile: true
 
 ### How does the use of a **social rewarding system** affect (in the short and long term) the level of participation in collective decision-making?
 
-### How the technology can be used to allow customized and personalized execution of collective decisions for different persons in different contexts?
+### How the technology can be used to allow customized and personalized execution of collective decisions for different persons in different contexts (liquid contracts)?
 
