@@ -14,3 +14,4 @@ intro_image_hide_on_mobile: true
 ### How does the use of **distributed ledger** technology affect (in the short and long term) the level of trust in collective decisions?
 
 ### How does the use of a **social rewarding system** affect (in the short and long term) the level of participation in collective decision-making?
+
