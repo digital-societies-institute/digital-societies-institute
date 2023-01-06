@@ -21,7 +21,9 @@ is an online space that allows people to connect and interact with others, share
 
 exists solely within a simulated environment. It is a city that is created and inhabited through digital technologies, allowing users to interact with a simulated world that is separate from the physical world. The virtual city offers a unique and novel way to engage with a simulated environment, providing users with new and exciting experiences that would not be possible in the physical world.
 
-------------------
+
+========
+
 
 The main difference between these two types of cities is how they relate to and interact with **reality**. While the "_digital city_" mediates real interactions and assets, the "_virtual city_" only simulates reality.
 
