@@ -25,7 +25,7 @@ exists solely within a simulated environment. It is a city that is created and i
 ========
 
 
-The main difference between these two types of cities is how they relate to and interact with **reality**. While the "_digital city_" mediates real interactions and assets, the "_virtual city_" only simulates reality.
+The main difference between these two types of cities is how they relate to and interact with **reality**. While the "_digital city_ mediates real interactions and assets, the "_virtual city_" only simulates reality-like interactions. 
 
 In the near future, it is likely that we will see the emergence of digital and virtual0 cities that exist only in the digital space, with no corresponding physical counterpart. These digital cities will be created and inhabited by users who may live in different parts of the world, but who are connected through their shared digital experiences.
 
