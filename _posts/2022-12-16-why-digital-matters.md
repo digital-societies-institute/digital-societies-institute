@@ -20,15 +20,15 @@ As cities continue to grow and evolve, the role of digital technologies in shapi
 
 One of the most exciting developments in the world of urban digitalization is the emergence of digital communities. These are groups of people who come together online to share information, collaborate, and work towards common goals.
 
-## Virtual City
+## Artificial City
 
-In recent years, it's become increasingly important for communities to have access to virtual spaces where they can simulate social interactions and make decisions based on experience.
+In recent years, it's become increasingly important for communities to have access to digital spaces where they can simulate social interactions and make decisions based on experience.
 
-Virtual spaces can also provide a safe and controlled environment for members of digital and virtual communities to experiment and explore new ideas. For example, a virtual space might be used to simulate the impact of a particular policy or decision on a community, allowing members to see the potential consequences of their actions before making a final decision.
+Digital spaces can also provide a safe and controlled environment for members of digital and artificial communities to experiment and explore new ideas. For example, a digital space might be used to simulate the impact of a particular policy or decision on a community, allowing members to see the potential consequences of their actions before making a final decision.
 
 ## Digital Community
 
-Digital communities can take many different forms. Some are focused on specific topics or interests, such as technology, sustainability, or education. Others are organized around geographic regions, bringing together people who live in the same city or neighborhood.
+Digital communities can take many forms. Some are focused on specific topics or interests, such as technology, sustainability, or education. Others are organized around geographic regions, bringing together people who live in the same city or neighborhood.
 
 They can be a powerful force for change. By bringing together large numbers of people who are passionate about a particular issue, these communities can raise awareness and mobilize action on important issues.
 
