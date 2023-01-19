@@ -16,6 +16,10 @@ bodyClass: "page-service"
           {{page.note | markdownify}}
         {% endif %}
 
+        {% if page.ai_note == true %}
+           include ai-note.html
+        {% endif %}
+
         {% if page.main_picture %}
           <img src="{{page.main_picture}}" alt="{{page.title}}">
         {% endif %}
