@@ -3,6 +3,7 @@ layout: post
 title:  "The Need For A Decision-Making Society"
 permalink: "/decision-making-society/"
 author: "Clement Nicolaescu"
+ai_note: true
 ---
 
 The collective decision-making process is a crucial aspect of society that affects the welfare of individuals and communities.

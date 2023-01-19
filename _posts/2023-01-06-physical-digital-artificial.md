@@ -3,6 +3,7 @@ layout: post
 title:  "Physical, Digital or Artificial?"
 permalink: "/physical-digital-artificial/"
 author: "Clement Nicolaescu"
+ai_note: true
 ---
 
 

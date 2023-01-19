@@ -3,6 +3,7 @@ layout: post
 title:  "Why Digital Matters"
 permalink: "/why-digital-matters/"
 author: "Clement Nicolaescu"
+ai_note: true
 ---
 
 
