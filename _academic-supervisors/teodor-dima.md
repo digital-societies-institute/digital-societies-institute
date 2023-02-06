@@ -9,7 +9,7 @@ subtitle: International Business
 positions: Business Analyst / Program Manager
 organizations: 
 linkedin_url: https://www.linkedin.com/in/teodor-dima/
-category: legal
+category: business
 ---
 With academic experience in International Business and Bank Management, Teodor has over 20 years of involvement in international projects as an expert in business analysis and program management.  
 
