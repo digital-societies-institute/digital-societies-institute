@@ -9,9 +9,7 @@ show_call_box: false
 intro_subtext: "*.The Digital Societies Institute is a **non-profit digital organization** that aims to **promote the development of digital cities** and to **support the creation of a digital society**."
 ---
 
-# Think Tank for
-
-# New Digital Societies
+# Think Tank for New Societies
 
 developed using new technologies like **artificial intelligence**, **distributed ledger**,
 
