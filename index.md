@@ -15,4 +15,4 @@ developed using new technologies like **artificial intelligence**, **distributed
 
 based on modern concepts like **startup society**, **liquid democracy**, **universal basic income**, **network state** and **digital identity**,
 
-focused on how **technology** can improve **social interactions** and make **modern communities** more **collaborative and participatory** through **digital rewards systems**.
+focused on how **technology** can improve **social interactions** and make **modern communities** more **collaborative and participatory**.
