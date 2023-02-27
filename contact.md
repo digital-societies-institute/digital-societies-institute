@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-### contact @digital.city.institute
+### contact @digital.societies.institute
 
 ----------------
 
