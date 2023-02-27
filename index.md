@@ -9,7 +9,7 @@ show_call_box: false
 intro_subtext: "*The Digital Societies Institute is a **non-profit digital organization**."
 ---
 
-# Think Tank for New Societies
+# Think Tank for Startup Societies
 
 enhanced by technologies like _artificial intelligence_, _distributed ledger_,
 
