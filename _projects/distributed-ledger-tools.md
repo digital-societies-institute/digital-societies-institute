@@ -8,7 +8,7 @@ title: Distributed Ledger Tools
 Distributed ledger technology (DLT) has the potential to support the creation and management of digital rewards systems, which provide rewards or incentives for various activities or contributions.      
 By enabling the creation and transfer of digital assets, DLT can help to make digital rewards systems more secure and efficient.
 
-Some examples of DLT tools and solutions that the Digital City Institute is exploring include:
+Some examples of DLT tools and solutions that the Digital Societies Institute is exploring include:
 
 1.    DLT-powered platforms for creating and managing digital rewards, such as tokens or cryptocurrencies.
 

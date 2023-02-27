@@ -12,7 +12,7 @@ It can also be a way for experts and other individuals to take an active role in
 
 The process of identifying problems, research and solutions for future contexts requires a systematic and analytical approach that involves understanding the context, identifying and analyzing the problem, generating and evaluating potential solutions, and implementing and monitoring the chosen solution.      
 
-This process of problem-solution proposals within the Digital City Institute, as a think tank, will make use of the tools developed within the CityOS.dev Framework for community participation and will consist in the following steps: 
+This process of problem-solution proposals within the Digital Societies Institute, as a think tank, will make use of the tools developed within the CityOS.dev Framework for community participation and will consist in the following steps: 
 
 
 1. Context Proposal

@@ -9,7 +9,7 @@ One of the key areas that the Institute is interested in is the use of artificia
 AI has the potential to enable digital communities to function more effectively and efficiently, by automating certain tasks and processes, and by providing support and assistance to community members.     
 
 
-Some examples of AI tools and solutions that the Digital City Institute is exploring include:
+Some examples of AI tools and solutions that the Digital Societies Institute is exploring include:
 
 1.    AI-powered collaboration tools that can help individuals and groups to work together more effectively, by providing suggestions, recommendations, and support.
 

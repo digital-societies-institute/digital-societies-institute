@@ -11,7 +11,7 @@ ai_note: true
 **Digital communities are the new frontier for social interaction.**   
 They are the place where people come together to express their creativity, collaborate on projects, and build relationships. 
 
-The Digital City Institute has reservations about the current approach for the "Metaverse" where the digital layer is a visual replica of the physical world that follows the same laws of physics.      
+The Digital Socities Institute has reservations about the current approach for the "Metaverse" where the digital layer is a visual replica of the physical world that follows the same laws of physics.      
 As a result, one of the many topics that the institute is researching is the proper format for representing digital entities and their interactions.     
 This is likely to be a complex and multi-faceted area of study, as there may be many ways to represent digital entities and their interactions in a way that is effective and meaningful.     
 
@@ -38,16 +38,16 @@ Regardless of their specific focus, digital communities have the potential to pl
 For example, a digital community focused on sustainability might bring together urban planners, community leaders, and technology experts to develop new solutions for reducing energy consumption and improving environmental sustainability in cities. A digital community focused on education could help connect teachers, students, and parents to share resources and support each other in their learning journeys.
 
 
-## Digital City Institute
+## Digital Societies Institute
 
-The Digital City Institute is committed to building a strong community of industry leaders, researchers, and students who are dedicated to sharing knowledge and driving innovation in the field of urban digitalization.
+The Digital Societies Institute is committed to building a strong community of industry leaders, researchers, and students who are dedicated to sharing knowledge and driving innovation in the field of urban digitalization.
 
 We believe that digital communities are the future of cities, and we are committed to helping them thrive. We are currently working on a number of projects that will help us achieve this goal.
 
 As the world becomes increasingly interconnected, the importance of digital communities will only continue to grow. By providing platforms for collaboration, innovation, and support, these communities have the potential to make cities more livable, sustainable, and resilient.
 
 **We are excited to be a part of this movement, and we look forward to working with you to build a better future for our cities.**   
-Are you passionate about digital technology and its impact on society? Do you want to be part of a community of like-minded individuals who are working to advance the field and shape the future of our digital world? If so, we invite you to join the Digital City Institute and become a part of our efforts.
+Are you passionate about digital technology and its impact on society? Do you want to be part of a community of like-minded individuals who are working to advance the field and shape the future of our digital world? If so, we invite you to join the Digital Societies Institute and become a part of our efforts.
 
 ## Digital Directions  
 

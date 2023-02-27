@@ -18,7 +18,7 @@ So, this framework enables urban communities and organizations to build digital 
 
 CityOS empower the transition from “social media” to “social spaces”.
 
-It implements concepts and ideas elaborated by the [Digital City Institute](https://digital.city.institute){:target=_blank} and represents the technology base for the [IM.CITY](https://IM.CITY){:target=_blank} and [UR.CITY](https://UR.CITY){:target=_blank} platforms.
+It implements concepts and ideas elaborated by the [Digital Societies Institute](https://digital.societies.institute){:target=_blank} and represents the technology base for the [IM.CITY](https://IM.CITY){:target=_blank} and [UR.CITY](https://UR.CITY){:target=_blank} platforms.
 
 
 You can find more details about the project at [**CityOS.dev**](https://cityos.dev){:target=_blank}

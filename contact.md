@@ -10,7 +10,7 @@ description: Contact
 
 &nbsp;
 
-At the Digital City Institute, we are dedicated to exploring and advancing the concept of the "Digital City", and we are always looking for new and innovative ideas.   
+At the Digital Societies Institute, we are dedicated to exploring and advancing the concept of the "Digital City", and we are always looking for new and innovative ideas.   
 
 
 If you have a passion for technology and its potential to improve our communities, we encourage you to contact us.    

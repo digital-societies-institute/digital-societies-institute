@@ -1,12 +1,12 @@
 ---
-title: Digital City Institute
+title: Digital Societies Institute
 layout: home
-description: Digital City Institute.
+description: Digital Societies Institute.
 intro_image: "images/illustrations/city_draw11.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: false
-intro_subtext: "*The Digital City Institute is a **non-profit digital organization** that aims to **promote the development of digital cities** and to **support the creation of a digital society**."
+intro_subtext: "*The Digital Societies Institute is a **non-profit digital organization** that aims to **promote the development of digital cities** and to **support the creation of a digital society**."
 ---
 
 # Think Tank for
