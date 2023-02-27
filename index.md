@@ -13,4 +13,4 @@ intro_subtext: "*The Digital Societies Institute is a **non-profit digital organ
 
 enhanced by new technologies like _artificial intelligence_ and _distributed ledger_,
 
-experimenting with modern concepts like _startup society_, _liquid democracy_, _universal basic income_, _network state_ and _digital identity_.
+experimenting with modern concepts like _network state_, _liquid democracy_, _universal basic income_ and _digital identity_.
