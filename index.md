@@ -11,7 +11,7 @@ intro_subtext: "*.The Digital Societies Institute is a **non-profit digital orga
 
 # Think Tank for
 
-# Digital Societies
+# New Digital Societies
 
 developed using new technologies like **artificial intelligence**, **distributed ledger**,
 
