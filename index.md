@@ -6,7 +6,7 @@ intro_image: "images/illustrations/city_draw11.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: false
-intro_subtext: "*The Digital Societies Institute is a **non-profit initiative**, focused on how _technology_ can improve _social interactions_ and develop new digital societies that are _inclusive_, _equitable_, and _sustainable_"
+intro_subtext: "*The Digital Societies Institute is a **non-profit initiative**, focused on how _technology_ can improve _social interactions_ and develop new digital societies that are _inclusive_, _equitable_, and _sustainable_. New Stage Technology srl is the management entity of the initiative."
 ---
 
 # Think Tank for Startup Societies
